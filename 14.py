@@ -53,9 +53,6 @@ def part2(lines):
 
 
 
-
-
-
 def getPermuatuins(value,places):
     if len(places) ==0:
         return [value]
